@@ -139,6 +139,7 @@ export const pluginNames = [
   'drizzle',
   'eleventy',
   'eslint',
+  'exec-staged',
   'expo',
   'gatsby',
   'github-action',

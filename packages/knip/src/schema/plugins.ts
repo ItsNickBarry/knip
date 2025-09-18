@@ -37,6 +37,7 @@ export const pluginsSchema = z.object({
   drizzle: pluginSchema,
   eleventy: pluginSchema,
   eslint: pluginSchema,
+  'exec-staged': pluginSchema,
   expo: pluginSchema,
   gatsby: pluginSchema,
   'github-action': pluginSchema,
