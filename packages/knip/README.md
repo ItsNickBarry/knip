@@ -13,6 +13,8 @@
 
 </div>
 
+> This is a fork of Knip with support for the `exec-staged` package.
+
 Knip finds and fixes **unused dependencies, exports and files** in your
 JavaScript and TypeScript projects. Less code and dependencies lead to improved
 performance, less maintenance and easier refactorings.
